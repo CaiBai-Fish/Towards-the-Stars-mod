@@ -1,0 +1,14 @@
+{
+	"parent":"towards_the_stars:item/bottle_base",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "towards_the_stars:item/bottle/naga"},
+		{"predicate": {"custom_model_data": 2},"model": "towards_the_stars:item/bottle/lich"},
+		{"predicate": {"custom_model_data": 3},"model": "towards_the_stars:item/bottle/minoshroom"},
+		{"predicate": {"custom_model_data": 4},"model": "towards_the_stars:item/bottle/knight_phantom"},
+		{"predicate": {"custom_model_data": 5},"model": "towards_the_stars:item/bottle/alpha_yeti"},
+		{"predicate": {"custom_model_data": 6},"model": "towards_the_stars:item/bottle/ur_ghast"},
+		{"predicate": {"custom_model_data": 7},"model": "towards_the_stars:item/bottle/snow_queen"},
+		{"predicate": {"custom_model_data": 8},"model": "towards_the_stars:item/bottle/warden"},
+		{"predicate": {"custom_model_data": 9},"model": "towards_the_stars:item/bottle/wither"}
+	]
+}

@@ -1,0 +1,115 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:end_mechanism"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "towards_the_stars:incomplete_end_mechanism"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_end_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_end_mechanism"
+                                             },
+                                             {
+                                                 "item":  "minecraft:netherite_ingot"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_end_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_end_mechanism"
+                                             },
+                                             {
+                                                 "item":  "ad_astra:ostrum_nugget"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_end_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_end_mechanism"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_end_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_end_mechanism"
+                                             },
+                                             {
+                                                 "item":  "minecraft:ender_eye"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_end_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_end_mechanism"
+                                             },
+                                             {
+                                                 "item":  "minecraft:ender_eye"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_end_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_end_mechanism"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_end_mechanism"
+                         },
+    "loops":  5
+}

@@ -1,0 +1,20 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:base_template"
+               },
+    "pattern":  [
+                    "AAA",
+                    "ABA",
+                    "AAA"
+                ],
+    "key":  {
+                "A":  {
+                          "tag":  "c:stone"
+                      },
+                "B":  {
+                          "item":  "minecraft:diamond"
+                      }
+            }
+}

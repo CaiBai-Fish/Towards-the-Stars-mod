@@ -1,0 +1,17 @@
+{
+    "type":  "create_mechanical_extruder:extruding",
+    "result":  {
+                   "count":  1,
+                   "id":  "minecraft:tuff"
+               },
+    "ingredients":  [
+                        {
+                            "fluid":  "minecraft:water",
+                            "amount":  1000
+                        },
+                        {
+                            "fluid":  "towards_the_stars:melted_tuff",
+                            "amount":  1000
+                        }
+                    ]
+}

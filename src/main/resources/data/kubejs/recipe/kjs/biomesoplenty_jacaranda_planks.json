@@ -1,0 +1,15 @@
+{
+    "type": "towards_the_stars:sawing",
+    "result":  {
+                   "count":  6,
+                   "id":  "biomesoplenty:jacaranda_planks"
+               },
+    "ingredients":  [
+                        {
+                            "item":  "biomesoplenty:jacaranda_log"
+                        },
+                        {
+                            "tag":  "towards_the_stars:saws"
+                        }
+                    ]
+}

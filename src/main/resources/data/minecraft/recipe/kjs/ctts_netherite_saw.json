@@ -1,0 +1,19 @@
+{
+    "type":  "minecraft:smithing_transform",
+    "result":  {
+                   "count":  1,
+                   "components":  {
+                                      "minecraft:damage":  0
+                                  },
+                   "id":  "towards_the_stars:netherite_saw"
+               },
+    "template":  {
+                     "item":  "minecraft:netherite_upgrade_smithing_template"
+                 },
+    "base":  {
+                 "item":  "towards_the_stars:diamond_saw"
+             },
+    "addition":  {
+                     "item":  "minecraft:netherite_ingot"
+                 }
+}

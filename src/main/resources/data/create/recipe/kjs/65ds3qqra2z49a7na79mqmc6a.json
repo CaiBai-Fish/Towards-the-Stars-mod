@@ -1,0 +1,15 @@
+{
+    "type":  "create:mixing",
+    "results":  [
+                    {
+                        "fluid":  "towards_the_stars:melted_diorite",
+                        "amount":  1000
+                    }
+                ],
+    "ingredients":  [
+                        {
+                            "item":  "uc:double_compressed_diorite"
+                        }
+                    ],
+    "heatRequirement":  "superheated"
+}

@@ -1,0 +1,17 @@
+{
+    "type":  "create_mechanical_extruder:extruding",
+    "result":  {
+                   "count":  1,
+                   "id":  "minecraft:granite"
+               },
+    "ingredients":  [
+                        {
+                            "fluid":  "minecraft:water",
+                            "amount":  1000
+                        },
+                        {
+                            "fluid":  "towards_the_stars:melted_granite",
+                            "amount":  1000
+                        }
+                    ]
+}

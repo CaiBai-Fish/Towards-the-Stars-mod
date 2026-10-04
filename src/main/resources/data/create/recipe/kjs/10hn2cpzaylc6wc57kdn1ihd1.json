@@ -1,0 +1,53 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "create:redstone_contact"
+                    }
+                ],
+    "ingredient":  {
+                       "tag":  "c:cobblestone"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_redstone_contact"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_redstone_contact"
+                                             },
+                                             {
+                                                 "item":  "minecraft:redstone"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_redstone_contact"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_redstone_contact"
+                                             },
+                                             {
+                                                 "item":  "create:iron_sheet"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_redstone_contact"
+                         },
+    "loops":  1
+}

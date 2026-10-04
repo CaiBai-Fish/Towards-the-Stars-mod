@@ -1,0 +1,20 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:rotor"
+               },
+    "pattern":  [
+                    " A ",
+                    "ABA",
+                    " A "
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "createaddition:copper_wire"
+                      },
+                "B":  {
+                          "item":  "createaddition:iron_rod"
+                      }
+            }
+}

@@ -1,0 +1,101 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "create:sticker"
+                    }
+                ],
+    "ingredient":  {
+                       "tag":  "c:cobblestone"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_sticker"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_sticker"
+                                             },
+                                             {
+                                                 "item":  "create:andesite_alloy"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_sticker"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_sticker"
+                                             },
+                                             {
+                                                 "item":  "create:andesite_alloy"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_sticker"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_sticker"
+                                             },
+                                             {
+                                                 "item":  "minecraft:redstone"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_sticker"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_sticker"
+                                             },
+                                             {
+                                                 "item":  "minecraft:slime_ball"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_sticker"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_sticker"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_sticker"
+                         },
+    "loops":  1
+}

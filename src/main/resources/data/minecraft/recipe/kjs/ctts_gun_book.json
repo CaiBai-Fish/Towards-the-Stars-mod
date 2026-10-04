@@ -1,0 +1,21 @@
+{
+    "type":  "minecraft:crafting_shapeless",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:gun_book"
+               },
+    "ingredients":  [
+                        {
+                            "item":  "minecraft:gunpowder"
+                        },
+                        {
+                            "item":  "minecraft:gunpowder"
+                        },
+                        {
+                            "item":  "minecraft:gunpowder"
+                        },
+                        {
+                            "item":  "minecraft:netherite_ingot"
+                        }
+                    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:nether_book"
+               },
+    "pattern":  [
+                    "AAAAAAA",
+                    "ABCBCBA",
+                    "ACDGDCA",
+                    "ABGFGBA",
+                    "ACDGDCA",
+                    "ABCBCBA",
+                    "AAAAAAA"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "minecraft:book"
+                      },
+                "B":  {
+                          "item":  "minecraft:blaze_rod"
+                      },
+                "C":  {
+                          "item":  "minecraft:blaze_powder"
+                      },
+                "D":  {
+                          "item":  "minecraft:soul_sand"
+                      },
+                "F":  {
+                          "item":  "minecraft:ender_pearl"
+                      },
+                "G":  {
+                          "item":  "towards_the_stars:nether_mechanism"
+                      }
+            }
+}

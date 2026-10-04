@@ -1,0 +1,17 @@
+{
+    "type":  "create:deploying",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "create:linear_chassis"
+                    }
+                ],
+    "ingredients":  [
+                        {
+                            "tag":  "towards_the_stars:logs"
+                        },
+                        {
+                            "item":  "create:andesite_alloy"
+                        }
+                    ]
+}

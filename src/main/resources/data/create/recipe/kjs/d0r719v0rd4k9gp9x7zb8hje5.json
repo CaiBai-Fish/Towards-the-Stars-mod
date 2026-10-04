@@ -1,0 +1,33 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:tier_4_rocket_outerwall"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "ad_astra:calorite_plate"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "ad_astra:calorite_plate"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "ad_astra:calorite_plate"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "ad_astra:calorite_plate"
+                         },
+    "loops":  4
+}

@@ -1,0 +1,16 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:extinguished_blaze_rod"
+               },
+    "pattern":  [
+                    "A",
+                    "A"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "minecraft:soul_sand"
+                      }
+            }
+}

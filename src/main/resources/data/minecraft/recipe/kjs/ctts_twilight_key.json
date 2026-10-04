@@ -1,0 +1,25 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:twilight_key"
+               },
+    "pattern":  [
+                    "AA AA",
+                    "A A A",
+                    "AABAA",
+                    "  B  ",
+                    "  B  ",
+                    " AB  ",
+                    "  B  ",
+                    " AB  "
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "towards_the_stars:key_fragments"
+                      },
+                "B":  {
+                          "item":  "towards_the_stars:twilight_mechanism"
+                      }
+            }
+}

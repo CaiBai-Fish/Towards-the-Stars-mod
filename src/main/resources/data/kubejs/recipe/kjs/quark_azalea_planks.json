@@ -1,0 +1,15 @@
+{
+    "type": "towards_the_stars:sawing",
+    "result":  {
+                   "count":  6,
+                   "id":  "quark:azalea_planks"
+               },
+    "ingredients":  [
+                        {
+                            "item":  "quark:azalea_log"
+                        },
+                        {
+                            "tag":  "towards_the_stars:saws"
+                        }
+                    ]
+}

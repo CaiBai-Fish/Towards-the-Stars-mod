@@ -1,0 +1,30 @@
+{
+    "type":  "create:mixing",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:crimson_crystal"
+                    }
+                ],
+    "ingredients":  [
+                        {
+                            "item":  "towards_the_stars:crimson_crystal_girt"
+                        },
+                        {
+                            "item":  "towards_the_stars:crimson_crystal_girt"
+                        },
+                        {
+                            "item":  "towards_the_stars:crimson_crystal_girt"
+                        },
+                        {
+                            "item":  "ae2:certus_quartz_dust"
+                        },
+                        {
+                            "item":  "ae2:certus_quartz_dust"
+                        },
+                        {
+                            "item":  "ae2:certus_quartz_dust"
+                        }
+                    ],
+    "heatRequirement":  "heated"
+}

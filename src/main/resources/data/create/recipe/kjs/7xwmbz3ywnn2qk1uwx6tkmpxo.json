@@ -1,0 +1,87 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "create_mechanical_extruder:mechanical_extruder"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "create:mechanical_drill"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_mechanical_extruder"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_mechanical_extruder"
+                                             },
+                                             {
+                                                 "tag":  "c:glass"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_mechanical_extruder"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_mechanical_extruder"
+                                             },
+                                             {
+                                                 "tag":  "c:glass"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_mechanical_extruder"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_mechanical_extruder"
+                                             },
+                                             {
+                                                 "tag":  "c:glass"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_mechanical_extruder"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_mechanical_extruder"
+                                             },
+                                             {
+                                                 "item":  "create:shaft"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_mechanical_extruder"
+                         },
+    "loops":  1
+}

@@ -1,0 +1,87 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "ad_astra:solar_panel"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "towards_the_stars:desh_casing"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:desh_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:desh_casing"
+                                             },
+                                             {
+                                                 "item":  "ad_astra:steel_plate"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:desh_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:desh_casing"
+                                             },
+                                             {
+                                                 "item":  "minecraft:blue_stained_glass"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:desh_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:desh_casing"
+                                             },
+                                             {
+                                                 "item":  "minecraft:blue_stained_glass"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:desh_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:desh_casing"
+                                             },
+                                             {
+                                                 "item":  "minecraft:blue_stained_glass"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:desh_casing"
+                         },
+    "loops":  1
+}

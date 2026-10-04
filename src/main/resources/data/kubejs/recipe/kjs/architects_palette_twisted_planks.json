@@ -1,0 +1,15 @@
+{
+    "type": "towards_the_stars:sawing",
+    "result":  {
+                   "count":  6,
+                   "id":  "architects_palette:twisted_planks"
+               },
+    "ingredients":  [
+                        {
+                            "item":  "architects_palette:twisted_log"
+                        },
+                        {
+                            "tag":  "towards_the_stars:saws"
+                        }
+                    ]
+}

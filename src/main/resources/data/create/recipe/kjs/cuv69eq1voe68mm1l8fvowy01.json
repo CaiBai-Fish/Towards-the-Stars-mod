@@ -1,0 +1,68 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "create:elevator_pulley"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "create:brass_casing"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:cutting",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_elevator_pulley"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_elevator_pulley"
+                                             }
+                                         ],
+                         "processingTime":  100
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_elevator_pulley"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_elevator_pulley"
+                                             },
+                                             {
+                                                 "item":  "minecraft:dried_kelp_block"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_elevator_pulley"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_elevator_pulley"
+                                             },
+                                             {
+                                                 "item":  "create:iron_sheet"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_elevator_pulley"
+                         },
+    "loops":  1
+}

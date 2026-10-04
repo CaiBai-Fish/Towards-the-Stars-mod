@@ -1,0 +1,57 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:end_cake"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "towards_the_stars:end_cake_base"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:filling",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:end_cake_base"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:end_cake_base"
+                                             },
+                                             {
+                                                 "fluid":  "towards_the_stars:end_mechanism_melt",
+                                                 "nbt":  {
+
+                                                         },
+                                                 "amount":  200
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:end_cake_base"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:end_cake_base"
+                                             },
+                                             {
+                                                 "item":  "farmersdelight:cake_slice"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:end_cake_base"
+                         },
+    "loops":  7
+}

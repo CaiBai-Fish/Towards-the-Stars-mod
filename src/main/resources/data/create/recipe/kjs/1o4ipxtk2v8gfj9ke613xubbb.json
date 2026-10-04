@@ -1,0 +1,15 @@
+{
+    "type":  "create:mixing",
+    "results":  [
+                    {
+                        "fluid":  "towards_the_stars:end_mechanism_melt",
+                        "amount":  500
+                    }
+                ],
+    "ingredients":  [
+                        {
+                            "item":  "towards_the_stars:end_mechanism"
+                        }
+                    ],
+    "heatRequirement":  "superheated"
+}

@@ -1,0 +1,36 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "create:fluid_tank"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "create:copper_casing"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_fluid_tank"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_fluid_tank"
+                                             },
+                                             {
+                                                 "item":  "minecraft:glass"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_fluid_tank"
+                         },
+    "loops":  2
+}

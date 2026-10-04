@@ -1,0 +1,8 @@
+{
+    "type":  "minecraft:stonecutting",
+    "result":  "ad_astra:desh_tank",
+    "count":  3,
+    "ingredient":  {
+                       "item":  "towards_the_stars:desh_casing"
+                   }
+}

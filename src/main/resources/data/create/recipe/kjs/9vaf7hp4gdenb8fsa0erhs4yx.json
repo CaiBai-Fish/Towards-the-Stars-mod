@@ -1,0 +1,88 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "twilightforest:magic_map_focus"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "twilightforest:raven_feather"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:filling",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_magic_map_focus"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_magic_map_focus"
+                                             },
+                                             {
+                                                 "fluid":  "towards_the_stars:twilight_mechanism_melt",
+                                                 "nbt":  {
+
+                                                         },
+                                                 "amount":  100
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_magic_map_focus"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_magic_map_focus"
+                                             },
+                                             {
+                                                 "item":  "minecraft:glowstone_dust"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_magic_map_focus"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_magic_map_focus"
+                                             },
+                                             {
+                                                 "item":  "twilightforest:torchberries"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_magic_map_focus"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_magic_map_focus"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_magic_map_focus"
+                         },
+    "loops":  10
+}

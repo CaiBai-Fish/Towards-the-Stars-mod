@@ -1,0 +1,41 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "ad_astra:tier_3_rocket"
+               },
+    "pattern":  [
+                    "   A   ",
+                    "  ACA  ",
+                    "  BCB  ",
+                    "  BCB  ",
+                    "  BCB  ",
+                    "  BCB  ",
+                    " HCDCH ",
+                    "HFCFCFH",
+                    "HGGGGGH"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "ad_astra:rocket_nose_cone"
+                      },
+                "B":  {
+                          "item":  "towards_the_stars:tier_3_rocket_outerwall"
+                      },
+                "C":  {
+                          "item":  "towards_the_stars:tier_3_rocket_frame"
+                      },
+                "D":  {
+                          "item":  "towards_the_stars:control_core"
+                      },
+                "H":  {
+                          "item":  "ad_astra:rocket_fin"
+                      },
+                "F":  {
+                          "item":  "ad_astra:ostrum_tank"
+                      },
+                "G":  {
+                          "item":  "ad_astra:ostrum_engine"
+                      }
+            }
+}

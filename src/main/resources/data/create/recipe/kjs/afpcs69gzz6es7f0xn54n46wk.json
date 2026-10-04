@@ -1,0 +1,33 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:tier_1_rocket_outerwall"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "ad_astra:steel_plate"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "ad_astra:steel_plate"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "ad_astra:steel_plate"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "ad_astra:steel_plate"
+                         },
+    "loops":  4
+}

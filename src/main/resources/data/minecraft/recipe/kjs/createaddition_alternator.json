@@ -1,0 +1,30 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "createaddition:alternator"
+               },
+    "pattern":  [
+                    "BBABB",
+                    "BCDCB",
+                    "BCDCB",
+                    "BBEBB"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "create:andesite_alloy"
+                      },
+                "B":  {
+                          "item":  "create:iron_sheet"
+                      },
+                "C":  {
+                          "item":  "towards_the_stars:magnet"
+                      },
+                "D":  {
+                          "item":  "towards_the_stars:rotor"
+                      },
+                "E":  {
+                          "item":  "createaddition:capacitor"
+                      }
+            }
+}

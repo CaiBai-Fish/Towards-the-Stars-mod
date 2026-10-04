@@ -1,0 +1,25 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "#":  {
+                          "item":  "minecraft:diamond"
+                      },
+                "C":  {
+                          "item":  "deeperdarker:sculk_stone"
+                      },
+                "S":  {
+                          "item":  "towards_the_stars:base_template"
+                      }
+            },
+    "pattern":  [
+                    "#S#",
+                    "#C#",
+                    "###"
+                ],
+    "result":  {
+                   "count":  2,
+                   "id":  "deeperdarker:warden_upgrade_smithing_template"
+               },
+    "show_notification":  true
+}

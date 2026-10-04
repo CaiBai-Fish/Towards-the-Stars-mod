@@ -1,0 +1,23 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:drill_head"
+               },
+    "pattern":  [
+                    "AA ",
+                    "ABC",
+                    " CB"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "create:zinc_nugget"
+                      },
+                "B":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "C":  {
+                          "item":  "createaddition:zinc_sheet"
+                      }
+            }
+}

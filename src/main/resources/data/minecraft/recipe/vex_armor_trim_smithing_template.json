@@ -1,0 +1,25 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "category":  "misc",
+    "key":  {
+                "#":  {
+                          "tag":  "c:gems/diamond"
+                      },
+                "C":  {
+                          "item":  "minecraft:stone"
+                      },
+                "S":  {
+                          "item":  "towards_the_stars:base_template"
+                      }
+            },
+    "pattern":  [
+                    "#S#",
+                    "#C#",
+                    "###"
+                ],
+    "result":  {
+                   "count":  2,
+                   "id":  "minecraft:vex_armor_trim_smithing_template"
+               },
+    "show_notification":  true
+}

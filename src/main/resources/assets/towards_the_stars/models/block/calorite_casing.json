@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"down": "towards_the_stars:block/calorite_casing_1",
+		"east": "towards_the_stars:block/calorite_casing_2",
+		"north": "towards_the_stars:block/calorite_casing_2",
+    	"particle": "towards_the_stars:block/calorite_casing_2",
+    	"south": "towards_the_stars:block/calorite_casing_2",
+    	"up": "towards_the_stars:block/calorite_casing_1",
+    	"west": "towards_the_stars:block/calorite_casing_2"
+	}
+}

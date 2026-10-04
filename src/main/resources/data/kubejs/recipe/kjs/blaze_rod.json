@@ -1,0 +1,15 @@
+{
+    "type":  "minecraft:crafting_shapeless",
+    "result":  {
+                   "count":  1,
+                   "id":  "minecraft:blaze_rod"
+               },
+    "ingredients":  [
+                        {
+                            "item":  "towards_the_stars:extinguished_blaze_rod"
+                        },
+                        {
+                            "item":  "minecraft:flint_and_steel"
+                        }
+                    ]
+}

@@ -1,0 +1,51 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "create:portable_fluid_interface"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "create:copper_casing"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_portable_fluid_interface"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_portable_fluid_interface"
+                                             },
+                                             {
+                                                 "item":  "create:chute"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:cutting",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_portable_fluid_interface"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_portable_fluid_interface"
+                                             }
+                                         ],
+                         "processingTime":  100
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_portable_fluid_interface"
+                         },
+    "loops":  1
+}

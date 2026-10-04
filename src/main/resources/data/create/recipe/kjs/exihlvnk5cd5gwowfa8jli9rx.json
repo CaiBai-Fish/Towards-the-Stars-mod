@@ -1,0 +1,38 @@
+{
+    "type":  "create:compacting",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "minecraft:diamond"
+                    }
+                ],
+    "ingredients":  [
+                        {
+                            "item":  "towards_the_stars:diamond_nugget"
+                        },
+                        {
+                            "item":  "towards_the_stars:diamond_nugget"
+                        },
+                        {
+                            "item":  "towards_the_stars:diamond_nugget"
+                        },
+                        {
+                            "item":  "towards_the_stars:diamond_nugget"
+                        },
+                        {
+                            "item":  "towards_the_stars:diamond_nugget"
+                        },
+                        {
+                            "item":  "towards_the_stars:diamond_nugget"
+                        },
+                        {
+                            "item":  "towards_the_stars:diamond_nugget"
+                        },
+                        {
+                            "item":  "towards_the_stars:diamond_nugget"
+                        },
+                        {
+                            "item":  "towards_the_stars:diamond_nugget"
+                        }
+                    ]
+}

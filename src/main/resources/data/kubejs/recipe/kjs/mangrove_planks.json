@@ -1,0 +1,15 @@
+{
+    "type": "towards_the_stars:sawing",
+    "result":  {
+                   "count":  6,
+                   "id":  "minecraft:mangrove_planks"
+               },
+    "ingredients":  [
+                        {
+                            "item":  "minecraft:mangrove_log"
+                        },
+                        {
+                            "tag":  "towards_the_stars:saws"
+                        }
+                    ]
+}

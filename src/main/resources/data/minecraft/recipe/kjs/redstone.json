@@ -1,0 +1,15 @@
+{
+    "type":  "minecraft:crafting_shapeless",
+    "result":  {
+                   "count":  1,
+                   "id":  "minecraft:redstone"
+               },
+    "ingredients":  [
+                        {
+                            "tag":  "towards_the_stars:powder"
+                        },
+                        {
+                            "item":  "minecraft:red_dye"
+                        }
+                    ]
+}

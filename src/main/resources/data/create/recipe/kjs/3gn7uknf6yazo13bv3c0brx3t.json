@@ -1,0 +1,16 @@
+{
+    "type":  "create:milling",
+    "results":  [
+                    {
+                        "count":  1,
+                        "chance":  0.4,
+                        "id":  "towards_the_stars:ender_core"
+                    }
+                ],
+    "ingredients":  [
+                        {
+                            "item":  "supplementaries:enderman_head"
+                        }
+                    ],
+    "processingTime":  100
+}

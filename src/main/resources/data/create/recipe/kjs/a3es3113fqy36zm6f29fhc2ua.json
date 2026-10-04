@@ -1,0 +1,51 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "create:portable_storage_interface"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "create:andesite_casing"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_portable_storage_interface"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_portable_storage_interface"
+                                             },
+                                             {
+                                                 "item":  "create:chute"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:cutting",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_portable_storage_interface"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_portable_storage_interface"
+                                             }
+                                         ],
+                         "processingTime":  100
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_portable_storage_interface"
+                         },
+    "loops":  1
+}

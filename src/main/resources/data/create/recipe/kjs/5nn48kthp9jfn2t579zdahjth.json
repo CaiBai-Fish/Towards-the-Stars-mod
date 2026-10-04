@@ -1,0 +1,33 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:tier_2_rocket_frame"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "ad_astra:desh_block"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "ad_astra:desh_block"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "ad_astra:desh_block"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "ad_astra:desh_block"
+                         },
+    "loops":  6
+}

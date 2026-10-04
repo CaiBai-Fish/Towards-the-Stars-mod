@@ -1,0 +1,13 @@
+{
+    "type":  "createaddition:charging",
+    "input":  {
+                  "count":  1,
+                  "id":  "minecraft:iron_ingot"
+              },
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:magnet"
+               },
+    "energy":  6000,
+    "maxChargeRate":  400
+}

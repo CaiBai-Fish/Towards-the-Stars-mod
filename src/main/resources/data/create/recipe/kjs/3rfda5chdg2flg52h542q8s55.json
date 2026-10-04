@@ -1,0 +1,85 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "ad_astra:gravity_normalizer"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "towards_the_stars:desh_casing"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:cutting",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:desh_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:desh_casing"
+                                             }
+                                         ],
+                         "processingTime":  100
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:desh_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:desh_casing"
+                                             },
+                                             {
+                                                 "item":  "minecraft:diamond_block"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:desh_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:desh_casing"
+                                             },
+                                             {
+                                                 "item":  "ad_astra:etrionic_capacitor"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:desh_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:desh_casing"
+                                             },
+                                             {
+                                                 "item":  "ad_astra:etrionic_capacitor"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:desh_casing"
+                         },
+    "loops":  1
+}

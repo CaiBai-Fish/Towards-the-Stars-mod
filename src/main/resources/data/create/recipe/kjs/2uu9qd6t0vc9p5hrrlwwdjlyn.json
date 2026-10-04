@@ -1,0 +1,33 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:tier_3_rocket_frame"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "ad_astra:ostrum_block"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "ad_astra:ostrum_block"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "ad_astra:ostrum_block"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "ad_astra:ostrum_block"
+                         },
+    "loops":  6
+}

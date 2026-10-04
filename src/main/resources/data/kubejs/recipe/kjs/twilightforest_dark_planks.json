@@ -1,0 +1,15 @@
+{
+    "type": "towards_the_stars:sawing",
+    "result":  {
+                   "count":  6,
+                   "id":  "twilightforest:dark_planks"
+               },
+    "ingredients":  [
+                        {
+                            "item":  "twilightforest:dark_log"
+                        },
+                        {
+                            "tag":  "towards_the_stars:saws"
+                        }
+                    ]
+}

@@ -1,0 +1,16 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:crimson_crystal_block"
+               },
+    "pattern":  [
+                    "AA",
+                    "AA"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "towards_the_stars:crimson_crystal"
+                      }
+            }
+}

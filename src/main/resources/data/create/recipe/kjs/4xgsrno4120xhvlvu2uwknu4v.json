@@ -1,0 +1,127 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "chance":  120.0,
+                        "id":  "towards_the_stars:twilight_mechanism"
+                    },
+                    {
+                        "count":  1,
+                        "chance":  7.0,
+                        "id":  "minecraft:iron_nugget"
+                    },
+                    {
+                        "count":  1,
+                        "chance":  7.0,
+                        "id":  "ae2:ender_dust"
+                    },
+                    {
+                        "count":  1,
+                        "chance":  7.0,
+                        "id":  "minecraft:blaze_powder"
+                    },
+                    {
+                        "count":  1,
+                        "chance":  7.0,
+                        "id":  "minecraft:ghast_tear"
+                    },
+                    {
+                        "count":  1,
+                        "chance":  1.0,
+                        "id":  "minecraft:nether_star"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "towards_the_stars:ender_core"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_twilight_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_twilight_mechanism"
+                                             },
+                                             {
+                                                 "item":  "minecraft:ender_pearl"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_twilight_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_twilight_mechanism"
+                                             },
+                                             {
+                                                 "item":  "butchery:dragon_scale"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_twilight_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_twilight_mechanism"
+                                             },
+                                             {
+                                                 "item":  "enderitemod:enderite_ingot"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_twilight_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_twilight_mechanism"
+                                             },
+                                             {
+                                                 "item":  "butchery:dragon_scale"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_twilight_mechanism"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_twilight_mechanism"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_twilight_mechanism"
+                         },
+    "loops":  10
+}

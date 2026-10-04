@@ -1,0 +1,20 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "deeperdarker:heart_of_the_deep"
+               },
+    "pattern":  [
+                    "AAA",
+                    "ABA",
+                    "AAA"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "deeperdarker:reinforced_echo_shard"
+                      },
+                "B":  {
+                          "item":  "towards_the_stars:incomplete_heart_of_the_deep"
+                      }
+            }
+}

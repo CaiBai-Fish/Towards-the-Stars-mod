@@ -1,0 +1,23 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  2,
+                   "id":  "enderitemod:enderite_upgrade_smithing_template"
+               },
+    "pattern":  [
+                    "ABA",
+                    "ACA",
+                    "AAA"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "minecraft:end_stone"
+                      },
+                "B":  {
+                          "item":  "towards_the_stars:base_template"
+                      },
+                "C":  {
+                          "item":  "minecraft:netherite_ingot"
+                      }
+            }
+}

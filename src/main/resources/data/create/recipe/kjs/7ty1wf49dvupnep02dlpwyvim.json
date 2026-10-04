@@ -1,0 +1,68 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "create:hose_pulley"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "create:copper_casing"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:cutting",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_hose_pulley"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_hose_pulley"
+                                             }
+                                         ],
+                         "processingTime":  100
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_hose_pulley"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_hose_pulley"
+                                             },
+                                             {
+                                                 "item":  "minecraft:dried_kelp_block"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:incomplete_hose_pulley"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:incomplete_hose_pulley"
+                                             },
+                                             {
+                                                 "item":  "create:copper_sheet"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:incomplete_hose_pulley"
+                         },
+    "loops":  1
+}

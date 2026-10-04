@@ -1,0 +1,27 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "createaddition:electric_motor"
+               },
+    "pattern":  [
+                    "BBABB",
+                    "BCDCB",
+                    "BCDCB",
+                    "BBBBB"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "create:andesite_alloy"
+                      },
+                "B":  {
+                          "item":  "create:brass_sheet"
+                      },
+                "C":  {
+                          "item":  "towards_the_stars:magnet"
+                      },
+                "D":  {
+                          "item":  "towards_the_stars:rotor"
+                      }
+            }
+}

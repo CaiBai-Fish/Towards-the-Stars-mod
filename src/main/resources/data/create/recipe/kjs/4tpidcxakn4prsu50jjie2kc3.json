@@ -1,0 +1,53 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "ad_astra:energizer"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "towards_the_stars:ostrum_casing"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:ostrum_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:ostrum_casing"
+                                             },
+                                             {
+                                                 "item":  "minecraft:diamond_block"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:ostrum_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:ostrum_casing"
+                                             },
+                                             {
+                                                 "item":  "minecraft:diamond"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:ostrum_casing"
+                         },
+    "loops":  2
+}

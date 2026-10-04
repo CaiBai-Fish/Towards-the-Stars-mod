@@ -1,0 +1,28 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "createaddition:modular_accumulator"
+               },
+    "pattern":  [
+                    "AAXAA",
+                    "ABBBA",
+                    "ABBBA",
+                    "ABBBA",
+                    "AAYAA"
+                ],
+    "key":  {
+                "A":  {
+                          "tag":  "towards_the_stars:sheet/gold"
+                      },
+                "B":  {
+                          "item":  "createaddition:capacitor"
+                      },
+                "X":  {
+                          "item":  "createaddition:zinc_sheet"
+                      },
+                "Y":  {
+                          "item":  "create:copper_sheet"
+                      }
+            }
+}

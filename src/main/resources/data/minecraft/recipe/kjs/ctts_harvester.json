@@ -1,0 +1,19 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:harvester"
+               },
+    "pattern":  [
+                    "ABA",
+                    "ABA"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "create:andesite_alloy"
+                      },
+                "B":  {
+                          "item":  "createaddition:zinc_sheet"
+                      }
+            }
+}

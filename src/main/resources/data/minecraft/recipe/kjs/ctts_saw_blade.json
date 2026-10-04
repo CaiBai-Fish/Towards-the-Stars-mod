@@ -1,0 +1,20 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:saw_blade"
+               },
+    "pattern":  [
+                    " A ",
+                    "ABA",
+                    " A "
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "create:iron_sheet"
+                      },
+                "B":  {
+                          "item":  "minecraft:iron_ingot"
+                      }
+            }
+}

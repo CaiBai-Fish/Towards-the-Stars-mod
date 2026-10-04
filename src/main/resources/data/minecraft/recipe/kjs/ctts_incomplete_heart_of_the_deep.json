@@ -1,0 +1,22 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:incomplete_heart_of_the_deep"
+               },
+    "pattern":  [
+                    "AAAAA",
+                    "AABAA",
+                    "ABBBA",
+                    "AABAA",
+                    "AAAAA"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "butchery:heart"
+                      },
+                "B":  {
+                          "item":  "minecraft:echo_shard"
+                      }
+            }
+}

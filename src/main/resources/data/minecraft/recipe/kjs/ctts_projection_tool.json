@@ -1,0 +1,20 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:projection_tool"
+               },
+    "pattern":  [
+                    " BB",
+                    " AB",
+                    "A  "
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "minecraft:stick"
+                      },
+                "B":  {
+                          "item":  "create:iron_sheet"
+                      }
+            }
+}

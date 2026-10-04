@@ -1,0 +1,8 @@
+{
+    "type":  "minecraft:stonecutting",
+    "result":  "ad_astra:rocket_nose_cone",
+    "count":  6,
+    "ingredient":  {
+                       "item":  "towards_the_stars:steel_casing"
+                   }
+}

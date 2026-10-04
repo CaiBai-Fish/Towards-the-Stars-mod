@@ -1,0 +1,33 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:tier_2_rocket_outerwall"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "ad_astra:desh_plate"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:pressing",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "ad_astra:desh_plate"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "ad_astra:desh_plate"
+                                             }
+                                         ]
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "ad_astra:desh_plate"
+                         },
+    "loops":  4
+}

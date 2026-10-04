@@ -1,0 +1,21 @@
+{
+    "type": "towards_the_stars:sawing",
+    "result":  {
+                   "count":  1,
+                   "id":  "create:andesite_casing"
+               },
+    "ingredients":  [
+                        {
+                            "item":  "create:cogwheel"
+                        },
+                        {
+                            "item":  "create:andesite_alloy"
+                        },
+                        {
+                            "tag":  "c:stripped_logs"
+                        },
+                        {
+                            "tag":  "towards_the_stars:saws"
+                        }
+                    ]
+}

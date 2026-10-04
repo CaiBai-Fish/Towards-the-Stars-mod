@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "towards_the_stars:blocks/crimson_crystal_block",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "towards_the_stars:crimson_crystal_block"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

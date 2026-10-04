@@ -1,0 +1,23 @@
+{
+    "type":  "create:mechanical_crafting",
+    "result":  {
+                   "count":  1,
+                   "id":  "ad_astra:water_pump"
+               },
+    "pattern":  [
+                    "ABABA",
+                    "AAAAA",
+                    "ACCCA"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "towards_the_stars:desh_casing"
+                      },
+                "B":  {
+                          "item":  "minecraft:dispenser"
+                      },
+                "C":  {
+                          "item":  "minecraft:hopper"
+                      }
+            }
+}

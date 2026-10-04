@@ -1,0 +1,14 @@
+{
+    "type":  "create:sandpaper_polishing",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:ammo"
+                    }
+                ],
+    "ingredients":  [
+                        {
+                            "item":  "create:copper_sheet"
+                        }
+                    ]
+}

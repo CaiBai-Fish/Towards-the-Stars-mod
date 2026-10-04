@@ -1,0 +1,51 @@
+{
+    "type":  "create:sequenced_assembly",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "ad_astra:cryo_freezer"
+                    }
+                ],
+    "ingredient":  {
+                       "item":  "towards_the_stars:ostrum_casing"
+                   },
+    "sequence":  [
+                     {
+                         "type":  "create:deploying",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:ostrum_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:ostrum_casing"
+                                             },
+                                             {
+                                                 "item":  "ad_astra:ostrum_tank"
+                                             }
+                                         ]
+                     },
+                     {
+                         "type":  "create:cutting",
+                         "results":  [
+                                         {
+                                             "count":  1,
+                                             "id":  "towards_the_stars:ostrum_casing"
+                                         }
+                                     ],
+                         "ingredients":  [
+                                             {
+                                                 "item":  "towards_the_stars:ostrum_casing"
+                                             }
+                                         ],
+                         "processingTime":  100
+                     }
+                 ],
+    "transitionalItem":  {
+                             "count":  1,
+                             "id":  "towards_the_stars:ostrum_casing"
+                         },
+    "loops":  2
+}

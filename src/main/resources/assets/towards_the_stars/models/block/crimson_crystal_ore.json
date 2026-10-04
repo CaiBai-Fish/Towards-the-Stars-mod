@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "towards_the_stars:block/crimson_crystal_ore"
+  }
+}

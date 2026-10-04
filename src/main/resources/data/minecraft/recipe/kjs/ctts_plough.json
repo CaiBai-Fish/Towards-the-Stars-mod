@@ -1,0 +1,22 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:plough"
+               },
+    "pattern":  [
+                    "ABA",
+                    "CCC"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "create:iron_sheet"
+                      },
+                "B":  {
+                          "item":  "createaddition:zinc_sheet"
+                      },
+                "C":  {
+                          "item":  "create:andesite_alloy"
+                      }
+            }
+}

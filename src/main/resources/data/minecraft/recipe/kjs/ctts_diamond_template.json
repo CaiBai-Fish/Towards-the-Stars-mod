@@ -1,0 +1,23 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:diamond_template"
+               },
+    "pattern":  [
+                    "ABA",
+                    "ACA",
+                    "AAA"
+                ],
+    "key":  {
+                "A":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "B":  {
+                          "item":  "towards_the_stars:base_template"
+                      },
+                "C":  {
+                          "item":  "minecraft:diamond"
+                      }
+            }
+}

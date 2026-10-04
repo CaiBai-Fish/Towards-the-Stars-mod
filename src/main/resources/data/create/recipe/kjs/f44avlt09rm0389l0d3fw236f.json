@@ -1,0 +1,28 @@
+{
+    "type":  "create:mixing",
+    "results":  [
+                    {
+                        "count":  1,
+                        "id":  "towards_the_stars:end_cake_base"
+                    }
+                ],
+    "ingredients":  [
+                        {
+                            "fluid":  "towards_the_stars:end_mechanism_melt",
+                            "nbt":  {
+
+                                    },
+                            "amount":  200
+                        },
+                        {
+                            "item":  "minecraft:egg"
+                        },
+                        {
+                            "item":  "minecraft:egg"
+                        },
+                        {
+                            "item":  "minecraft:egg"
+                        }
+                    ],
+    "heatRequirement":  "heated"
+}

@@ -1,0 +1,8 @@
+{
+    "type":  "minecraft:stonecutting",
+    "result":  "ad_astra:oxygen_gear",
+    "count":  5,
+    "ingredient":  {
+                       "item":  "towards_the_stars:steel_casing"
+                   }
+}

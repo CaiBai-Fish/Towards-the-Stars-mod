@@ -1,0 +1,15 @@
+{
+    "type": "towards_the_stars:sawing",
+    "result":  {
+                   "count":  6,
+                   "id":  "biomesoplenty:dead_planks"
+               },
+    "ingredients":  [
+                        {
+                            "item":  "biomesoplenty:dead_log"
+                        },
+                        {
+                            "tag":  "towards_the_stars:saws"
+                        }
+                    ]
+}

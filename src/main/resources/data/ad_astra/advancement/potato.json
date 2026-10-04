@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:potato"
+    },
+    "title": {
+      "translate": "advancements.ad_astra.potato.title"
+    },
+    "description": {
+      "translate": "advancements.ad_astra.potato.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "ad_astra:mars",
+  "criteria": {
+    "potato": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "block": "minecraft:potatoes",
+            "condition": "minecraft:block_state_property"
+          }
+        ],
+        "player": {
+          "location": {
+            "dimension": "ad_astra:mars"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 75
+  }
+}

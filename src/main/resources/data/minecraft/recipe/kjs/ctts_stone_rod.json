@@ -1,0 +1,16 @@
+{
+    "type":  "minecraft:crafting_shaped",
+    "result":  {
+                   "count":  1,
+                   "id":  "towards_the_stars:stone_rod"
+               },
+    "pattern":  [
+                    "A",
+                    "A"
+                ],
+    "key":  {
+                "A":  {
+                          "tag":  "c:cobblestone"
+                      }
+            }
+}
